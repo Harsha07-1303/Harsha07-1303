@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harsha V
 - 👀 I’m interested in Android App Development, Web Development
 - 🌱 I’m currently learning MERN, Django, Flask
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Believe in Self improvement.
 - 📫 Can reach me by harshv1303@gmail.com
 - 😄 Cricket Enthusiast.
 - ⚡ Continous learner
