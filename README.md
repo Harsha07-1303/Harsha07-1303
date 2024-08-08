@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning MERN, Django, Flask
 - 💞️ I’m looking to collaborate on ...
 - 📫 Can reach me by harshv1303@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Cricket Enthusiast.
+- ⚡ Continous learner
 
 <!---
 Harsha07-1303/Harsha07-1303 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
