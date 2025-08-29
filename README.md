@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harsha V
-- 👀 I’m interested in Android App Development, Web Development
-- 🌱 I’m currently learning Embedded Systems.
+- 👀 I’m interested in Java Full Stack and Web Development
+- 🌱 I’m currently learning C# and .NET .
 - 💞️ Believe in Self improvement.
 - 📫 Can reach me by harshav1303@gmail.com
 - 😄 Cricket Enthusiast.
